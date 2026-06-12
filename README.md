@@ -68,7 +68,9 @@ FPGA-based HDMI input and output interfacing project with real-time video proces
 ### Output Result
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/87b26967-cf0a-476c-b20a-9c4da8df8c42" />
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2c8157d-581e-42ca-a828-4ac4c810665d" />
-Output Demonstration:
+
+### Demonstration Video:
+
 https://github.com/user-attachments/assets/21fd4ccf-fdb0-410b-b171-7158aad9eeee
 
 
